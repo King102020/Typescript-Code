@@ -1,0 +1,28 @@
+{
+  "name": "advanced-typescript",
+  "version": "1.0.0",
+  "description": "Advanced types patterns in TypeScript",
+  "scripts": {
+    "dev": "ts-node",
+    "format": "prettier --write ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leandrotk/advanced-typescript.git"
+  },
+  "keywords": [
+    "typescript",
+    "javascript"
+  ],
+  "author": "TK",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leandrotk/advanced-typescript/issues"
+  },
+  "homepage": "https://github.com/leandrotk/advanced-typescript#readme",
+  "devDependencies": {
+    "prettier": "2.4.1",
+    "ts-node": "10.7.0",
+    "typescript": "4.4.4"
+  }
+}
